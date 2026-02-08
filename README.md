@@ -53,8 +53,7 @@ Proje tamamen **HTML5, CSS3 ve Vanilla JavaScript** kullanılarak geliştirilmi�
 
 Proje hakkında soru sormak, eleştiri yapmak veya katkıda bulunmak için topluluklarımıza katılabilirsiniz:
 
-- **Reddit:** [r/tibukandtoker](https://www.reddit.com/r/tibukandtoker/)
-- **Discord:** [Davet Linki](https://discord.gg/sXybQj7Hyc)
+- **Reddit:** https://www.reddit.com/user/pixelkek45
 
 ---
 
